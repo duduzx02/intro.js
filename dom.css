@@ -1,0 +1,9 @@
+body{
+    background-color: hotpink;
+    color: #333;
+    font-family: 11pt 'Open Sans', sans-serif;
+}
+
+#lista{
+    cursor: pointer;
+}
