@@ -10,7 +10,7 @@ function media(nota1, nota2) { // função para calcular a média de duas notas 
     return media;
 }
 
-  let resultado = media(nota1, nota2);
+  let resultado = media(nota1, nota2); 
 
     // Operador ternário (condição ? verdadeiro : falso) - retorna o valor verdadeiro ou falso
 
